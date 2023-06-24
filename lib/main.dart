@@ -1,3 +1,5 @@
+// ignore_for_file: unused_import
+
 import 'package:flutter/material.dart';
 import 'package:flutter_ahlul_quran_app/bloc/ayat/ayat_bloc.dart';
 import 'package:flutter_ahlul_quran_app/cubit/ayat/ayat_cubit.dart';
